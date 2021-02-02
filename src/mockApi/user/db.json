@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alqama",
+    "lastName": "Bin Sadiq",
+    "password": "12345",
+    "email": "alqamabinsadiq@fake.com",
+    "age": 30,
+    "address": "Gulshan-e-Iqbal, Karachi"
+  },
+  {
+    "id": 2,
+    "firstName": "John",
+    "lastName": "Smith",
+    "password": "12345",
+    "email": "john@fake.com",
+    "age": 20,
+    "address": "Gulistan-e-Johar, Karachi"
+  },
+  {
+    "id": 3,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "password": "12345",
+    "email": "jane@fake.com",
+    "age": 30,
+    "address": "Gulshan-e-Iqbal, Karachi"
+  },
+  {
+    "id": 4,
+    "firstName": "Jim",
+    "lastName": "Green",
+    "age": 42,
+    "address": "London No. 1 Lake Park",
+    "password": "12345",
+    "email": "jim@fake.com"
+  },
+  {
+    "id": 5,
+    "firstName": "Jim",
+    "lastName": "Red",
+    "age": 32,
+    "address": "London No. 2 Lake Park",
+    "password": "12345",
+    "email": "jimred@fake.com"
+  },
+  {
+    "id": 6,
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 32,
+    "address": "New York No. 1 Lake Park",
+    "password": "12345",
+    "email": "john@fake.com"
+  },
+  {
+    "id": 7,
+    "firstName": "Joe",
+    "lastName": "Brown",
+    "age": 22,
+    "address": "New York No. 3 Lake Park",
+    "password": "12345",
+    "email": "joe@fake.com"
+  },
+  {
+    "id": 8,
+    "firstName": "Eric",
+    "lastName": "Brown",
+    "age": 40,
+    "address": "New York No. 2 Lake Park",
+    "password": "12345",
+    "email": "eric@fake.com"
+  }
+]
